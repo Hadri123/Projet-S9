@@ -1,0 +1,2 @@
+﻿  module.cpp
+C:\Users\hadri\Documents\3A\PR309-ProjetAvance\WrappingCppPy\cpp_script\superfastcode\superfastcode\module.cpp(1,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'Python.h' : No such file or directory
